@@ -1,0 +1,2 @@
+MAILTO=""
+@reboot /bin/bash /home/devuser/start.sh
